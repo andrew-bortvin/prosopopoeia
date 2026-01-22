@@ -60,11 +60,13 @@ FONTS
   z-index: -1;
 }
 
+
 /* Shrunk header */
-.site-header.shrink {
+/*.site-header.shrink {
   height: 4rem;
   background-color: rgba(255, 255, 255, 1.0) !important;
 }
+*/
 
 /* Flex container for title and nav */
 .site-header .wrapper {
