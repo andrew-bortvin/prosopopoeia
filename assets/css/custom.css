@@ -170,12 +170,13 @@ strong, b {
 }
 
 /* Shrunken logo image */
-.site-header.shrink .site-title img {
+/*.site-header.shrink .site-title img {
   height: 4em;
   width: auto;
   display: block;
   align-items: center;
 }
+*/
 
 
 /* Side by side image and text for index page and other*/
