@@ -30,6 +30,34 @@
     });
   });
 </script>
+
+  <script>
+document.addEventListener("DOMContentLoaded", function () {
+  const toggles = document.querySelectorAll(".icon-toggle");
+
+  // click on first item on page open
+  if (toggles.length > 0) {
+    toggles[0].click(); 
+  }
+
+  toggles.forEach((toggle) => {
+    toggle.addEventListener("click", function () {
+      const textId = toggle.dataset.text;
+      const currentDropdown = document.getElementById(textId);
+
+      // Hide all other text blocks
+      document.querySelectorAll(".icon-text").forEach((block) => {
+        if (block !== currentDropdown) {
+          block.classList.remove("open");
+        }
+      });
+
+      // Toggle current block
+      currentDropdown.classList.toggle("open");
+    });
+  });
+});
+</script>
   
   <!--Header and footer-->
   <body class="{% if page.after_banner %}after-banner{% endif %}">
