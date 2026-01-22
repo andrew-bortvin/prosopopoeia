@@ -120,7 +120,7 @@ strong, b {
 
 /* Fullscreen image */
 .full-banner {
-  width: 30vw;
+  width: 100vw;
   object-fit: cover;
   display: block;
   margin: 0;
