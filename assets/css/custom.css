@@ -25,6 +25,74 @@ FONTS
   color: #333;
 }
 
+/* headers */
+h2 {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 7rem;
+  font-weight: 600;
+  color: #849b8e;
+  text-align: center;
+}
+
+/* headers */
+h2 {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 7rem;
+  font-weight: 600;
+  color: #849b8e;
+  text-align: center;
+}
+
+
+/* mobile h2 */
+@media (max-width: 768px) {
+  h2{
+    font-size: 5rem;
+  }
+}
+
+h3 {
+  text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+  font-size: 5rem;
+  font-weight: 200;
+  color: #000000;
+}
+
+/*Header for Our Vision*/
+h4 {
+  text-align: center;
+    font-family: 'Cormorant Garamond', serif;
+  font-size: 7rem;
+  font-style: italic;
+  font-weight: 200;
+  color: #000000;
+}
+
+/* mobile h4 */
+@media (max-width: 768px) {
+  h2{
+    font-size: 5rem;
+  }
+}
+
+/* Style all paragraph text */
+p {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 1.5rem;
+  font-weight: 100;
+  color: #000000;
+  line-height: 1.8;
+  margin-bottom: 1.5rem;
+}
+
+strong, b {
+  color: #849b8e;
+  font-family: 'Cormorant-Garamond', serif;
+  font-weight: bold;
+}
+
+
 
 
 /**/
@@ -94,7 +162,7 @@ FONTS
 
 /* Big logo image */
 .site-title img {
-  height: 300px;
+  height: 50px;
   width: auto;
   display: block;
   transition: height 0.3s ease;
@@ -109,72 +177,6 @@ FONTS
   align-items: center;
 }
 
-/* headers */
-h2 {
-  font-family: 'Cormorant Garamond', serif;
-  font-size: 7rem;
-  font-weight: 600;
-  color: #849b8e;
-  text-align: center;
-}
-
-/* headers */
-h2 {
-  font-family: 'Cormorant Garamond', serif;
-  font-size: 7rem;
-  font-weight: 600;
-  color: #849b8e;
-  text-align: center;
-}
-
-
-/* mobile h2 */
-@media (max-width: 768px) {
-  h2{
-    font-size: 5rem;
-  }
-}
-
-h3 {
-  text-align: center;
-    font-family: 'Cormorant Garamond', serif;
-  font-size: 5rem;
-  font-weight: 200;
-  color: #000000;
-}
-
-/*Header for Our Vision*/
-h4 {
-  text-align: center;
-    font-family: 'Cormorant Garamond', serif;
-  font-size: 7rem;
-  font-style: italic;
-  font-weight: 200;
-  color: #000000;
-}
-
-/* mobile h4 */
-@media (max-width: 768px) {
-  h2{
-    font-size: 5rem;
-  }
-}
-
-/* Style all paragraph text */
-p {
-  font-family: 'Cormorant Garamond', serif;
-  font-size: 1.5rem;
-  font-weight: 100;
-  color: #000000;
-  line-height: 1.8;
-  margin-bottom: 1.5rem;
-}
-
-strong, b {
-  color: #849b8e;
-  font-family: 'Cormorant-Garamond', serif;
-  font-weight: bold;
-}
 
 /* Side by side image and text for index page and other*/
 .text-image-row {
