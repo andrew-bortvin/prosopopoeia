@@ -114,8 +114,7 @@ strong, b {
 }
 
 /*Header font pre-scroll*/
-.site-title,
-.site-nav .page-link {
+.site-header .nav-menu a:hover  {
   color: #222;
   transition: color 0.3s ease;
 }
@@ -126,8 +125,7 @@ strong, b {
 }
 
 /*Header font - when scrolled*/
-.site-header.scrolled .site-title,
-.site-header.scrolled .site-nav .page-link {
+.site-header.scrolled .nav-menu a:hover {
   color: #ffffff !important;
 }
 
