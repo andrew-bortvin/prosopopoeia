@@ -128,7 +128,7 @@ strong, b {
 /*Header font - when scrolled*/
 .site-header.scrolled .site-title,
 .site-header.scrolled .site-nav .page-link {
-  color: #ffffff;
+  color: #ffffff !important;
 }
 
 /*.page-content.after-banner {
