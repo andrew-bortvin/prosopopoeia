@@ -3,6 +3,15 @@ layout: page
 title: prosopopoeia ensemble
 ---
 
+<div class="banner-container">
+  <img src="{{ site.baseurl }}/assets/img/ppeia_sketch.jpg" alt="our group!" class="full-banner">
+  <div class="banner-text">
+    <h1>prosopopoeia</h1>
+  </div>
+</div>
+
+
+
 <img src="{{ site.baseurl }}/assets/img/ppeia_sketch.jpg" alt="us!" class="full-banner">
 
  <p>
