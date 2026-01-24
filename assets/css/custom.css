@@ -149,8 +149,31 @@ strong, b {
 
 
 /**/
-/*Image*/
+/*Banner image*/
 /**/
+
+.banner-container {
+  position: relative;     
+  width: 100%;
+  height: 100vh;           
+  overflow: hidden;
+}
+
+.banner-text {
+  position: absolute;
+  bottom: 1rem;           
+  left: 50%;             
+  transform: translateX(-50%); 
+  text-align: center;
+  color: black;            
+  text-shadow: 0 2px 5px rgba(0,0,0,0.5); 
+  font-family: 'Cormorant Garamond', serif;
+}
+
+.banner-text h1 {
+  font-size: 3rem;
+  margin: 0;
+}
 
 /* Fullscreen image */
 .full-banner {
