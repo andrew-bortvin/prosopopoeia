@@ -99,12 +99,12 @@ strong, b {
 /*Header containers*/
 /**/
 
-/* Header container */
+/* Header container - when not scrolled*/
 .site-header {
   height: 5em;
   transition: background-color 0.3s ease, height 0.3s ease;
   width: 100%;
-  background-color: rgba(255, 255, 255, 0) !important;
+  background-color: rgba(59, 67, 159, 0) !important;
   /*backdrop-filter: saturate(180%) blur(6px);*/
   position: fixed !important;
   top: 0;
@@ -113,10 +113,20 @@ strong, b {
   box-shadow: none !important;
 }
 
+/* Header container - when */
+.site-header.scrolled {
+  background-color: rgba(59, 67, 159, 1);
+}
+
 /*.page-content.after-banner {
   padding-top: 10rem;
 }
 */
+
+
+/**/
+/*Image*/
+/**/
 
 /* Fullscreen image */
 .full-banner {
