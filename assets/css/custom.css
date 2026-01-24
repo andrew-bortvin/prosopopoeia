@@ -114,10 +114,11 @@ strong, b {
 }
 
 /*Header font pre-scroll*/
-.site-header .nav-menu  {
+.site-header .nav-menu  a {
   color: #222;
   transition: color 0.3s ease;
 }
+
 
 /* Header container - when scrolled*/
 .site-header.scrolled {
@@ -125,9 +126,10 @@ strong, b {
 }
 
 /*Header font - when scrolled*/
-.site-header.scrolled .nav-menu {
+.site-header.scrolled .nav-menu  a {
   color: #ffffff !important;
 }
+
 
 /*.page-content.after-banner {
   padding-top: 10rem;
