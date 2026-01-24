@@ -10,10 +10,6 @@ title: prosopopoeia ensemble
   </div>
 </div>
 
-
-
-<img src="{{ site.baseurl }}/assets/img/ppeia_sketch.jpg" alt="us!" class="full-banner">
-
  <p>
 Homepage for prosopopoeia ensemble.
  </p>
