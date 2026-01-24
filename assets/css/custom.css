@@ -99,9 +99,20 @@ strong, b {
 /*Header containers*/
 /**/
 
-body {
-  margin: 0 !important;
-  padding: 0 !important;
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.banner-container {
+  margin: 0;         
+  padding: 0;       
+}
+
+.banner-container * {
+  margin: 0;         
+  padding: 0;      
 }
 
 /* Header container - when not scrolled*/
