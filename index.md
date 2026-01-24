@@ -3,7 +3,7 @@ layout: page
 title: prosopopoeia ensemble
 ---
 
-<div style="height: 5rem;"></div>
+<img src="{{ site.baseurl }}/assets/img/ppeia_sketch.jpg" alt="us!" class="full-banner">
 
  <p>
 Homepage for prosopopoeia ensemble.
