@@ -99,6 +99,11 @@ strong, b {
 /*Header containers*/
 /**/
 
+body {
+  margin: 0;
+  padding: 0;
+}
+
 /* Header container - when not scrolled*/
 .site-header {
   height: 5em;
