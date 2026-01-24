@@ -108,11 +108,15 @@ html, body {
 .banner-container {
   margin: 0;         
   padding: 0;       
+  top: 0;  
+  height: 100vh;
+  overflow: hidden;
 }
 
-.banner-container * {
-  margin: 0;         
-  padding: 0;      
+
+.page-content {
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
 /* Header container - when not scrolled*/
