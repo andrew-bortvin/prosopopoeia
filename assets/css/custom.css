@@ -119,6 +119,12 @@ strong, b {
   transition: color 0.3s ease;
 }
 
+/*Header font pre-scroll*/
+.site-header .nav-menu  a:hover {
+  color: rgba(59, 67, 159, 1);
+  transition: color 0.3s ease;
+}
+
 
 /* Header container - when scrolled*/
 .site-header.scrolled {
@@ -128,6 +134,11 @@ strong, b {
 /*Header font - when scrolled*/
 .site-header.scrolled .nav-menu  a {
   color: #ffffff !important;
+}
+
+/*Header font - when scrolled*/
+.site-header.scrolled .nav-menu  a:hover {
+  color: #ba3c3c !important;
 }
 
 
