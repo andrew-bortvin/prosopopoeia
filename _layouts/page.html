@@ -59,6 +59,17 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
   
+  <script>
+    document.addEventListener("scroll", function () {
+      const header = document.querySelector(".site-header");
+      if (window.scrollY > window.innerHeight) { /*Scrolled if more than height of user screen*/
+        header.classList.add("scrolled");
+      } else {
+        header.classList.remove("scrolled");
+      }
+    });
+  </script>
+
   <!--Header and footer-->
   <body class="{% if page.after_banner %}after-banner{% endif %}">
     {% include header.html %}
