@@ -182,7 +182,7 @@ html, body {
 .banner-text {
   position: absolute;
   bottom: 4rem;           
-  left: 3%;             
+  left: 50%;             
   text-align: center;
   color: #1F1F1F;            
   font-family: 'Cormorant Garamond', serif;
