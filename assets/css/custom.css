@@ -99,6 +99,26 @@ strong, b {
 /*Header containers*/
 /**/
 
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+.banner-container {
+  margin: 0;         
+  padding: 0;       
+  top: 0;  
+  height: 100vh;
+  overflow: hidden;
+}
+
+
+.page-content {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
 /* Header container - when not scrolled*/
 .site-header {
   height: 5em;
