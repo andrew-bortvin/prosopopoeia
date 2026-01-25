@@ -218,7 +218,7 @@ strong, b {
 
 /* Big logo image */
 .site-title img {
-  height: 100px;
+  height: 70px;
   width: auto;
   display: block;
   transition: height 0.3s ease;
