@@ -10,6 +10,15 @@ title: prosopopoeia ensemble
   </div>
 </div>
 
+<section class="blue-bg">
+  <div class="content">
+    <h2>Research</h2>
+    <p>
+      Our research focuses on XYZ.
+    </p>
+  </div>
+</section>
+
 <div class="text-image-row">
   <div class="text-column">
     <p>

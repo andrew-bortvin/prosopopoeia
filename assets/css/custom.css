@@ -204,6 +204,19 @@ html, body {
   z-index: -1;
 }
 
+/**/
+/*Colored bg section*/
+/**/
+.blue-bg {
+  background-color: rgba(59, 67, 159, 0);
+  color: white;
+}
+
+/* Optional: ensure text inside colored sections is readable */
+.blue-bg p,
+.blue-bg h2 {
+  color: white;
+}
 
 /* Shrunk header */
 /*.site-header.shrink {
