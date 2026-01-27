@@ -12,9 +12,9 @@ title: prosopopoeia ensemble
 
 <section class="blue-bg">
   <div class="content">
-    <h2>Research</h2>
+    <h2>prosopopoeia</h2>
     <p>
-      Our research focuses on XYZ.
+      a definition that ties in to our ensemble mition
     </p>
   </div>
 </section>
