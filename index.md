@@ -5,9 +5,9 @@ title: prosopopoeia ensemble
 
 <div class="banner-container">
   <img src="{{ site.baseurl }}/assets/img/ppeia_sketch.jpg" alt="our group!" class="full-banner">
-  <div class="banner-text">
-    <h1>prosopopoeia</h1>
-  </div>
+  <!--<div class="banner-text">-->
+    <!--<h1>prosopopoeia</h1> -->
+  <!--</div> -->
 </div>
 
 <section class="blue-bg">
