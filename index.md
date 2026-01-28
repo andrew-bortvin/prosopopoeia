@@ -14,7 +14,7 @@ title: prosopopoeia ensemble
   <div class="content">
     <h2>prosopopoeia</h2>
     <p>
-      a definition that ties in to our ensemble mition
+      a definition that ties in to our ensemble mission
     </p>
   </div>
 </section>
