@@ -59,15 +59,34 @@ document.addEventListener("DOMContentLoaded", function () {
 });
 </script>
   
+  <!--Script for header scrolling -->
   <script>
-    document.addEventListener("scroll", function () {
-      const header = document.querySelector(".site-header");
-      if (window.scrollY > window.innerHeight) { /*Scrolled if more than height of user screen*/
+  document.addEventListener("DOMContentLoaded", function () {
+    const header = document.querySelector(".site-header");
+    if (!header) return;
+
+    const isHome = document.body.classList.contains("home");
+
+    // If NOT home, force scrolled state immediately
+    if (!isHome) {
+      header.classList.add("scrolled");
+      return;
+    }
+
+    // Home page: toggle on scroll
+    const threshold = window.innerHeight;
+
+    function handleScroll() {
+      if (window.scrollY > threshold) {
         header.classList.add("scrolled");
       } else {
         header.classList.remove("scrolled");
       }
-    });
+    }
+
+    window.addEventListener("scroll", handleScroll);
+    handleScroll(); // run once on load
+  });
   </script>
 
   <!--Header and footer-->
