@@ -6,7 +6,7 @@ shrink_header: true
 after_banner: true
 ---
 
-<div style="height: 4rem;"></div>
+<div style="height: 6rem;"></div>
 
 ### Upcoming
 
