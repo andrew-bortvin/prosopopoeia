@@ -208,10 +208,10 @@ html, body {
 /*Colored bg section*/
 /**/
 .blue-bg {
-  background-color: rgba(59, 67, 159, 0);
+  background-color: rgba(59, 67, 159);
 }
 
-/* Optional: ensure text inside colored sections is readable */
+/*text color in blue bg section*/
 .blue-bg p,
 .blue-bg h2 {
   color: white;
