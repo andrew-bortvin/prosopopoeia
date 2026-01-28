@@ -25,21 +25,13 @@ FONTS
   color: #333;
 }
 
-/* headers */
-h2 {
-  font-family: 'Cormorant Garamond', serif;
-  font-size: 7rem;
-  font-weight: 600;
-  color: #849b8e;
-  text-align: center;
-}
 
 /* headers */
 h2 {
   font-family: 'Cormorant Garamond', serif;
   font-size: 7rem;
   font-weight: 600;
-  color: #849b8e;
+  color: #4682B4;
   text-align: center;
 }
 
