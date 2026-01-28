@@ -91,7 +91,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   <!--Header and footer-->
 <body class="
-  {% if page.layout == 'home' %}home{% else %}not-home{% endif %}
+  {% if page.url == '/' or page.url == '/index.html' %}home{% else %}not-home{% endif %}
   {% if page.after_banner %}after-banner{% endif %}
 ">
     {% include header.html %}
