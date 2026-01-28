@@ -25,7 +25,7 @@ after_banner: true
 
 <div style="text-align: center; max-width: 800px; margin: 2rem auto;">
   <p>
-    <strong>La Lyre d'Appolon: Greek Myth in the French Baroque </strong> <br>
+    <strong>La Lyre d'Apollon: Greek Myth in the French Baroque </strong> <br>
     The Ivy Bookshop at Mount Vernon <br>
     10 E Mt Vernon Place, Baltimore, Maryland 21202<br>
     December 11 and December 14, 2025<br>
