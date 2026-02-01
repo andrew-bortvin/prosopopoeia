@@ -9,6 +9,7 @@ minima:
 header_pages:
   - about.md
   - members.md
+  - programmes.md
   - schedule.md
   - watch_listen.md
   - contact.md
