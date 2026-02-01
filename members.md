@@ -5,7 +5,7 @@ permalink: /members/
 after_banner: true
 ---
 
-<div style="height: 5rem;"></div>
+<div style="height: 7rem;"></div>
 
 <div class="icon-grid">
   <div class="icon-item">
