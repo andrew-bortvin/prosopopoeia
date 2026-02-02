@@ -26,13 +26,11 @@ after_banner: true
       <img src="{{ site.baseurl }}/assets/img/headshots/andrew.jpg" alt="Icon 3" />
     </button>
   </div>
-<!--
   <div class="icon-item">
     <button class="icon-toggle" data-text="riley">
-      <img src="{{ site.baseurl }}/assets/img/headshots/" alt="Icon 4" />
+      <img src="{{ site.baseurl }}/assets/img/logo.png" alt="Icon 4" />
     </button>
   </div>
--->
 </div>
 
 
@@ -44,7 +42,9 @@ after_banner: true
   </p>
 </div>
 <div id="jonah" class="icon-text" style="display:none;">
-  <p><strong></p>
+  <p>
+  Jonah is so good at the flute and the recorder 
+</p>
 </div>
 <div id="andrew" class="icon-text" style="display:none;">
   <p>
@@ -52,7 +52,9 @@ after_banner: true
   </p>
 </div>
 <div id="riley" class="icon-text" style="display:none;">
-  <p></p>
+  <p>
+  	Riley Parks is a a Viola da Gamba and Bass player living in Baltimore, MD. Loving a variety of music, he seeks to spread the love of the Viola da Gamba and share music from the past and present. He is excited to work with the members of Prosopopoeia to reach as many people with live historical music as possible. Currently a student at the Peabody Institute, Riley studies Historical Performance with John Moran.
+  </p>
 </div>
 
 
