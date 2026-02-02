@@ -25,7 +25,7 @@ after_banner: true
   </div>
   <div class="icon-item">
     <button class="icon-toggle" data-text="riley">
-      <img src="{{ site.baseurl }}/assets/img/riley.jpg" alt="Icon 4" />
+      <img src="{{ site.baseurl }}/assets/img/headshots/riley.jpg" alt="Icon 4" />
     </button>
   </div>
 </div>
