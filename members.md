@@ -13,14 +13,11 @@ after_banner: true
       <img src="{{ site.baseurl }}/assets/img/headshots/julie.jpg" alt="Icon 1" />
     </button>
   </div>
-
-  <!--
   <div class="icon-item">
     <button class="icon-toggle" data-text="jonah">
-      <img src="{{ site.baseurl }}/assets/img/headshots/" alt="Icon 2" />
+      <img src="{{ site.baseurl }}/assets/img/logo.png" alt="Icon 2" />
     </button>
   </div>
--->
   <div class="icon-item">
     <button class="icon-toggle" data-text="andrew">
       <img src="{{ site.baseurl }}/assets/img/headshots/andrew.jpg" alt="Icon 3" />
@@ -28,7 +25,7 @@ after_banner: true
   </div>
   <div class="icon-item">
     <button class="icon-toggle" data-text="riley">
-      <img src="{{ site.baseurl }}/assets/img/logo.png" alt="Icon 4" />
+      <img src="{{ site.baseurl }}/assets/img/riley.jpg" alt="Icon 4" />
     </button>
   </div>
 </div>
