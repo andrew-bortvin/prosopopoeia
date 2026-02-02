@@ -10,6 +10,8 @@ after_banner: true
 
 ### Upcoming
 
+### Past Performances
+
 <div style="text-align: center; max-width: 800px; margin: 2rem auto;">
   <p>
     <strong>Fallen Kingdoms: an exploraition of court music from 1530-1570</strong> <br>
@@ -20,8 +22,6 @@ after_banner: true
     Free admission <br>
   </p>
 </div>
-
-### Past Performances
 
 <div style="text-align: center; max-width: 800px; margin: 2rem auto;">
   <p>
