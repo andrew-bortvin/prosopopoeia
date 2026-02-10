@@ -1,5 +1,5 @@
 ---
-layout: fullscreen
+layout: page
 title: About
 permalink: /about/
 shrink_header: true
