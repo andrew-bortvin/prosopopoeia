@@ -13,7 +13,7 @@ title: prosopopoeia ensemble
 <section class="blue-bg">
   <div class="content">
     <h2>prosopopoeia</h2>
-    <p>
+    <p class="text-slide">
       a definition that ties in to our ensemble mission
     </p>
   </div>
