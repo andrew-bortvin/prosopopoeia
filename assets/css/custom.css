@@ -360,7 +360,7 @@ html, body {
   justify-content: flex-end;
   margin: 0;
   padding: 0;
-  align-items: flex-start;
+  align-items: center; /*Vertical centering of text*/
 }
 
 /* Hamburger toggle */
