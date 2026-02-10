@@ -26,7 +26,7 @@ title: prosopopoeia ensemble
     </p>
   </div>
   <div class="image-column">
-    <img src="{{ site.baseurl }}/assets/img/ppeia_sketch.jpg" alt="our group!" />
+    <img src="{{ site.baseurl }}/assets/img/gamba_keys.jpeg" alt="gamba and keys!" />
   </div>
 </div>
 
