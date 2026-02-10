@@ -86,7 +86,7 @@ strong, b {
 
 /*Sliding text*
 /* Initial hidden state */
-.slide-in {
+.text-slide{
   opacity: 0;
   transform: translateX(40px);
   transition: opacity 0.8s ease-out, transform 0.8s ease-out;
@@ -94,14 +94,14 @@ strong, b {
 }
 
 /* When visible */
-.slide-in.visible {
+.text-slide.visible {
   opacity: 1;
   transform: translateY(0);
 }
 
 /* Allow reduction in motion */
 @media (prefers-reduced-motion: reduce) {
-  .slide-in {
+  .text-slide{
     transition: none;
     opacity: 1;
     transform: none;
