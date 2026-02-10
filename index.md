@@ -43,7 +43,7 @@ The rest of it went in a doublet of fine cloth and velvet breeches and shoes to 
  <p>
 
 <br>
-<p style="text-align: center; margin: 0 3rem;">
+<p style="text-align: center; margin: 0 10rem;">
  They will have it his surname was Quixada or Quesada (for here there is some difference of opinion among the authors who write on the subject), although from reasonable conjectures it seems plain that he was called Quexana.
 </p>
 
