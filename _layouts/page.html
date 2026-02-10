@@ -92,23 +92,28 @@ document.addEventListener("DOMContentLoaded", function () {
     handleScroll(); // run once on load
   });
   </script>
-
   
   <script> // Sliding text script
-  const observer = new IntersectionObserver(
-    entries => {
-      entries.forEach(entry => {
-        if (entry.isIntersecting) {
-          entry.target.classList.add('visible');
-          observer.unobserve(entry.target); 
-        }
-      });
-    },
-    { threshold: 0.2 }
-  );
+  document.addEventListener("DOMContentLoaded", () => {
+    const observer = new IntersectionObserver(
+      (entries, observer) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add("visible");
+            observer.unobserve(entry.target);
+          }
+        });
+      },
+      {
+        root: null,
+        threshold: 0,
+        rootMargin: "0px 0px -100px 0px"
+      }
+    );
 
-  document.querySelectorAll('.slide-in').forEach(el => {
-    observer.observe(el);
+    document.querySelectorAll(".slide-in").forEach(el => {
+      observer.observe(el);
+    });
   });
 </script>
 
