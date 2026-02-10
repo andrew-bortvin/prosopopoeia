@@ -84,8 +84,29 @@ strong, b {
   font-weight: bold;
 }
 
+/*Sliding text*
+/* Initial hidden state */
+.slide-in {
+  opacity: 0;
+  transform: translateX(40px);
+  transition: opacity 0.8s ease-out, transform 0.8s ease-out;
+  transition-delay: 0.2s;
+}
 
+/* When visible */
+.slide-in.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
 
+/* Allow reduction in motion */
+@media (prefers-reduced-motion: reduce) {
+  .slide-in {
+    transition: none;
+    opacity: 1;
+    transform: none;
+  }
+}
 
 /**/
 /*Header containers*/
