@@ -11,7 +11,9 @@ after_banner: true
 <div style="text-align: center; max-width: 800px; margin: 2rem auto;">
   <p>
     Contact us at <strong>EMAIL ADDRESS</strong>. 
+  </p>
 
+  <p>
     The guests had by this time made peace with the landlord, for, by
     persuasion and Don Quixote’s fair words more than by threats, they had
     paid him what he demanded, and the servants of Don Luis were waiting
