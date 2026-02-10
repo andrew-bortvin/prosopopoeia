@@ -134,6 +134,7 @@ html, body {
 
 /* Header container - when not scrolled*/
 .site-header {
+  display: flex; 
   align-items: center; /*vertical center text*/
   height: 5em;
   transition: background-color 0.3s ease, height 0.3s ease;
