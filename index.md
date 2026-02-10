@@ -32,7 +32,7 @@ title: prosopopoeia ensemble
 
 <div class="text-image-row">
   <div class="image-column">
-    <img src="{{ site.baseurl }}/assets/img/ppeia_sketch_2.jpeg" alt="our group!" />
+    <img src="{{ site.baseurl }}/assets/img/jonah.jpeg" alt="our group!" />
   </div>
   <div class="text-column">
     <p>
