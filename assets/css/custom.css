@@ -248,7 +248,30 @@ body::after {
 /*Colored bg section*/
 /**/
 .blue-bg {
-  background-color: #6394FF;
+  /*background-color: #6394FF;*/
+  position: relative;
+  background: radial-gradient(
+    circle at bottom right,
+    rgba(255, 255, 255, 0.9) 0%,
+    rgba(255, 255, 255, 0.4) 20%,
+    rgba(0, 102, 204, 1) 70%
+  );
+  overflow: hidden;
+}
+
+.blue-bg::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+
+  background-image: radial-gradient(white 1px, transparent 1px);
+  background-size: 6px 6px;
+
+  mask-image: radial-gradient(circle at bottom right, black 0%, transparent 70%);
+  -webkit-mask-image: radial-gradient(circle at bottom right, black 0%, transparent 70%);
+
+  opacity: 0.6;
+  pointer-events: none;
 }
 
 .blue-bg {
