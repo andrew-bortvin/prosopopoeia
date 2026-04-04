@@ -168,14 +168,12 @@ html, body {
 
 /*Header font - when scrolled*/
 .site-header.scrolled .nav-menu  a {
-  color: #FFBF57 !important;
-  /*color: #ffffff !important;*/
+  color: #ffffff !important;
 }
 
 /*Header font - when scrolled*/
 .site-header.scrolled .nav-menu  a:hover {
-  /*color: #FF4B33 !important;*/
-  color: #ffffff;
+  color: #FF4B33 !important;
 }
 
 
@@ -424,7 +422,7 @@ body::after {
 .nav-menu a {
   text-decoration: none;
   /*color: black;*/
-  font-weight: 400;
+  font-weight: 700;
   padding-left: 1.5rem;
   font-family: 'Lato', sans-serif;
   font-size: 1.3rem;
