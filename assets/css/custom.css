@@ -187,11 +187,6 @@ html, body {
 /*GRAIN*/
 /**/
 
-/* above grain at z 1*/
-main, header {
-  position: relative;
-  z-index: 2;
-}
 
 /*grain layer*/
 body::after {
