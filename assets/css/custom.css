@@ -31,7 +31,7 @@ h2 {
   font-family: 'Cormorant Garamond', serif;
   font-size: 5rem;
   font-weight: 600;
-  color: #0505FF;
+  color: #0047AB;
   text-align: center;
 }
 
@@ -79,7 +79,7 @@ p {
 }
 
 strong, b {
-  color: #0505FF;
+  color: #0047AB;
   font-family: 'Cormorant-Garamond', serif;
   font-weight: bold;
 }
@@ -156,14 +156,14 @@ html, body {
 
 /*Header font pre-scroll*/
 .site-header .nav-menu  a:hover {
-  color: #0505FF;
+  color: #0047AB;
   transition: color 0.3s ease;
 }
 
 
 /* Header container - when scrolled*/
 .site-header.scrolled {
-  background-color: #0505FF;
+  background-color: #0047AB;
 }
 
 /*Header font - when scrolled*/
