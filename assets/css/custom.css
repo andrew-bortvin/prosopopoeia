@@ -263,6 +263,7 @@ body::after {
 .blue-bg p,
 .blue-bg h2 {
   color: white;
+  z-index: 10000 /*scrolls over the header*/
 }
 
 /* Shrunk header */
