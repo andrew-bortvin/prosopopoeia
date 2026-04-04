@@ -264,14 +264,27 @@ body::after {
   position: absolute;
   inset: 0;
 
-  background-image: radial-gradient(white 1px, transparent 1px);
-  background-size: 6px 6px;
+  background-image:
+    radial-gradient(white 1px, transparent 1px),
+    radial-gradient(white 1.5px, transparent 1.5px),
+    radial-gradient(white 0.8px, transparent 0.8px);
+
+  background-size:
+    6px 6px,
+    10px 10px,
+    4px 4px;
+
+  background-position:
+    0 0,
+    3px 5px,
+    1px 2px;
 
   mask-image: radial-gradient(circle at bottom right, black 0%, transparent 70%);
   -webkit-mask-image: radial-gradient(circle at bottom right, black 0%, transparent 70%);
 
   opacity: 0.6;
   pointer-events: none;
+}
 }
 
 .blue-bg {
