@@ -31,7 +31,7 @@ h2 {
   font-family: 'Cormorant Garamond', serif;
   font-size: 5rem;
   font-weight: 600;
-  color: #0047AB;
+  color: #6394FF;
   text-align: center;
 }
 
@@ -79,7 +79,7 @@ p {
 }
 
 strong, b {
-  color: #0047AB;
+  color: #6394FF;
   font-family: 'Cormorant-Garamond', serif;
   font-weight: bold;
 }
@@ -156,24 +156,26 @@ html, body {
 
 /*Header font pre-scroll*/
 .site-header .nav-menu  a:hover {
-  color: #0047AB;
+  color: #6394FF;
   transition: color 0.3s ease;
 }
 
 
 /* Header container - when scrolled*/
 .site-header.scrolled {
-  background-color: #0047AB;
+  background-color: #6394FF;
 }
 
 /*Header font - when scrolled*/
 .site-header.scrolled .nav-menu  a {
-  color: #ffffff !important;
+  color: #FFBF57 !important;
+  /*color: #ffffff !important;*/
 }
 
 /*Header font - when scrolled*/
 .site-header.scrolled .nav-menu  a:hover {
-  color: #FF4B33 !important;
+  /*color: #FF4B33 !important;*/
+  color: #ffffff;
 }
 
 
@@ -248,7 +250,7 @@ body::after {
 /*Colored bg section*/
 /**/
 .blue-bg {
-  background-color: #0047AB;
+  background-color: #6394FF;
 }
 
 .blue-bg {
