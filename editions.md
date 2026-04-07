@@ -69,7 +69,7 @@ permalink: /editions/
       <td><span class="Dates">1677 – 1745</span></td>
       <td><span class="Piece">Enone</span></td>
       <td><span class="Inst">Voice, 2 x Dessus, B.C.</span></td>
-      <td><span class="Link">Google Drive</span></td>
+      <td><span class="Link"><a href="https://drive.google.com/file/d/1Dyf6V-z_LSuDv4f8vLHLCZtgtdNqMwqv/view?usp=sharing">Google Drive</a></span></td>
     </tr>
   </tbody>
 </table>
