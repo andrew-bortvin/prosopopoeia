@@ -12,10 +12,9 @@ title: prosopopoeia ensemble
 
 <section class="blue-bg">
   <div class="content">
-    <h2>ensemble</h2> <bigP>P</bigP><h2>rose</h2>
-    <p class="text-slide">
-      a definition that ties in to our ensemble mission
-    </p>
+    <span class="h2">ensemble</span>
+    <span class="bigP">P</span>
+    <span class="h2">rose</span>
   </div>
 </section>
 
