@@ -529,7 +529,7 @@ div.icon-text p {
   margin-left: 1rem;
   margin-right: 1rem;   
   width: calc(100% - 2rem);
-  table-layout: fixed;
+  table-layout: auto;
   background: transparent;
   border-collapse: collapse;
   border: none;
