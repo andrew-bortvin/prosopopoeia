@@ -33,7 +33,7 @@ permalink: /editions/
       <td><span class="Dates">late 1600s</span></td>
       <td><span class="Piece">Le doux silence de nos bois</span></td>
       <td><span class="Inst">Voice, B.C.</span></td>
-      <td><span class="Link">Google Drive</span></td>
+      <td><span class="Link"><a href="https://drive.google.com/file/d/1xiKIRiWYlSD5sxndUgfVV0yN9TkuOz2D/view?usp=sharing">Google Drive</a></span></td>
     </tr>
     <tr>
       <td>
@@ -45,7 +45,7 @@ permalink: /editions/
       <td><span class="Dates">1643 - 1704</span></td>
       <td><span class="Piece">Sans frayeur dans ce bois</span></td>
       <td><span class="Inst">Voice, B.C.</span></td>
-      <td><span class="Link">Google Drive</span></td>
+      <td><span class="Link"><a href="https://drive.google.com/file/d/1Qa4s7-xFRTg-dO58GahYBLMNdz1sU7-_/view?usp=sharing">Google Drive</a></span></td>
     </tr>
     <tr>
       <td>
