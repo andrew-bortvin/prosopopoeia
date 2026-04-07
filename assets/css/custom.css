@@ -37,7 +37,7 @@ h2 {
 
 .ensemble {
   font-family: 'Cormorant Garamond', serif;
-  font-size: clamp(1rem, 5rem, 5rem);
+  font-size: 5rem;
   font-weight: 300;
   color: #ffffff;
   text-align: center;
@@ -46,7 +46,7 @@ h2 {
 
 .bigP {
   font-family: 'Herr Von Muellerhoff', serif;
-  font-size: clamp(2rem, 20rem, 20rem);
+  font-size: 20rem
   font-weight: 400;
   color: #ffffff;
   text-align: center;
