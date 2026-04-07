@@ -553,7 +553,7 @@ div.icon-text p {
 }
 
 .editions-table td {
-  vertical-align: top;
+  vertical-align: bottom;
   line-height: 1.0;
   background: transparent !important;
   box-shadow: none !important;
