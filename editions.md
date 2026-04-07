@@ -40,6 +40,25 @@ As an ensemble, we are particularly love the unexplored corners of early music r
         <span class="Link">Google Drive</span>
       </td>
     </tr>
+    <td>
+        <div>
+          <span class="Name-Last">Charpentier</span>
+          <span class="Name-First">Marc-Antoine</span>
+        </div>
+     </td>
+      <td>
+        <span class="Dates">1643 - 1704</span><br>
+      </td>
+      <td>
+        <span class="Piece">Sans frayeur dans ce bois</span>
+      </td>
+      <td>
+        <span class="Inst">Voice, B.C.</span>
+      </td>
+      <td>
+        <span class="Link">Google Drive</span>
+      </td>
+    </tr>
     <tr>
       <td>
         <div>
