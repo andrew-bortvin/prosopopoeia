@@ -516,6 +516,72 @@ div.icon-text p {
   line-height: 1.4;
 }
 
+/*Editions-TABLE*/
+
+.editions-table tr,
+.editions-table tbody tr,
+.editions-table tbody tr:nth-child(even),
+.editions-table tbody tr:nth-child(odd) {
+  background: transparent !important;
+}
+
+.editions-table {
+  margin-left: 12rem;
+  margin-right: 1rem;   
+  width: calc(100% - 13rem);
+  table-layout: fixed;
+  background: transparent;
+  border-collapse: collapse;
+  border: none;
+}
+
+.editions-table thead {
+  display: none; /*hide header*/
+  border: none !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.editions-table {
+  border: none;
+  box-shadow: none;
+}
+
+.editions-table * {
+  box-shadow: none;
+  border: none;
+}
+
+.editions-table td {
+  vertical-align: top;
+  line-height: 1.0;
+  background: transparent !important;
+  box-shadow: none !important;
+  border-bottom: 2px solid #454545;
+}
+
+.editions-table tr:last-child td {
+  border-bottom: none;
+}
+
+.cell-content {
+  display: block;
+}
+
+.Name-Last {
+  font-family: 'Cormorant Garamond', sans-serif;
+  font-size: 3rem;
+  font-weight: 700;
+  color: #000000;
+}
+
+.Name-First {
+  font-family: 'Cormorant Garamond', sans-serif;
+  font-size: 3rem;
+  font-weight: 400;
+  color: #000000;
+}
+
 /* --- MOBILE STYLES --- */
 /* --- MOBILE NAVIGATION & ICON GRID --- */
 @media (max-width: 768px) {
