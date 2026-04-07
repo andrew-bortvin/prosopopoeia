@@ -6,9 +6,9 @@ permalink: /editions/
 
 <div style="height: 7rem;"></div>
 
-<p>
-As an ensemble, we are particularly love the unexplored corners of early music repertoire. To make this music more accessible, we are publishing the modern performing editions we have created based on manuscript sources and historical sources. 
-</p>
+<span class="editions-text">
+  As an ensemble, we are particularly love the unexplored corners of early music repertoire. To make this music more accessible, we are publishing the modern performing editions we have created based on manuscript sources and historical sources. 
+</span>
 
 <table class="editions-table">
   <thead>

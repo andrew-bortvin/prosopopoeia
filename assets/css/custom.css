@@ -516,6 +516,14 @@ div.icon-text p {
   line-height: 1.4;
 }
 
+/*Editions-TEXT*/
+
+.editions-text {
+  margin: 2rem auto;
+  padding: 1rem;
+}
+
+
 /*Editions-TABLE*/
 
 .editions-table tr,
