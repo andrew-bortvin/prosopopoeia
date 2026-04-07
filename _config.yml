@@ -1,6 +1,7 @@
 title: prosopopoeia
 description: Website for Early Music group, Prosopopoeia Ensemble
-baseurl: "/prosopopoeia"
+url: "www.ensembleprose.com"
+baseurl: ""
 theme: minima
 
 minima:
