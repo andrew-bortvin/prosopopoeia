@@ -35,7 +35,7 @@ title: Ensemble Prose
   </div>
   <div class="text-column">
     <p>
-      Committed to storytelling, Ensemble Prose performs music that emphasizes the power of language and rhetoric. Our concerts tell dramatic stories, sharing the intimacy, connection, and freedom of historically-informed chamber music. We endeavor to increase the accessibility of this music through the performance, recording, and creation of modern performing editions of underperformed repertoire. 
+      Committed to storytelling through music, Ensemble Prose performs music that emphasizes the power of language and rhetoric. Our concerts tell dramatic stories, sharing the intimacy, connection, and freedom of historically-informed chamber music. We endeavor to increase the accessibility of this music through the performance, recording, and creation of modern performing editions of underperformed repertoire. 
     </p>
   </div>
 </div>
