@@ -526,9 +526,9 @@ div.icon-text p {
 }
 
 .editions-table {
-  margin-left: 12rem;
+  margin-left: 1rem;
   margin-right: 1rem;   
-  width: calc(100% - 13rem);
+  width: calc(100% - 2rem);
   table-layout: fixed;
   background: transparent;
   border-collapse: collapse;
@@ -585,28 +585,28 @@ div.icon-text p {
 .Dates {
   font-family: 'Cormorant Garamond', sans-serif;
   font-size: 2rem;
-  font-weight: 300;
+  font-weight: 400;
   color: #000000;
 }
 
 .Piece {
   font-family: 'Cormorant Garamond', sans-serif;
   font-size: 2rem;
-  font-weight: 300;
+  font-weight: 400;
   color: #000000;
 }
 
 .Inst {
   font-family: 'Cormorant Garamond', sans-serif;
   font-size: 2rem;
-  font-weight: 300;
+  font-weight: 400;
   color: #000000;
 }
 
 .Link {
   font-family: 'Cormorant Garamond', sans-serif;
   font-size: 2rem;
-  font-weight: 300;
+  font-weight: 400;
   color: #000000;
 }
 
