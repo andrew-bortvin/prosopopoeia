@@ -29,23 +29,23 @@ FONTS
 /* headers */
 h2 {
   font-family: 'Cormorant Garamond', serif;
-  font-size: 5rem;
+  font-size: 3rem;
   font-weight: 600;
-  color: #6394FF;
+  color: #ffffff;
   text-align: center;
 }
 
 .ensemble {
   font-family: 'Cormorant Garamond', serif;
-  font-size: 5rem;
+  font-size: 3rem;
   font-weight: 600;
-  color: #6394FF;
+  color: #ffffff;
   text-align: center;
 }
 
 .bigP {
   font-family: 'Herr Von Muellerhoff', serif;
-  font-size: 5rem;
+  font-size: 8rem;
   font-weight: 400;
   color: #ffffff;
 }

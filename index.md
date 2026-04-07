@@ -14,7 +14,7 @@ title: prosopopoeia ensemble
   <div class="content">
     <span class="ensemble">ensemble</span>
     <span class="bigP">P</span>
-    <span class="ensembe">rose</span>
+    <span class="ensemble">rose</span>
   </div>
 </section>
 
