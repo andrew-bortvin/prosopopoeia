@@ -35,6 +35,14 @@ h2 {
   text-align: center;
 }
 
+.ensemble {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 5rem;
+  font-weight: 600;
+  color: #6394FF;
+  text-align: center;
+}
+
 .bigP {
   font-family: 'Herr Von Muellerhoff', serif;
   font-size: 5rem;

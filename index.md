@@ -12,9 +12,9 @@ title: prosopopoeia ensemble
 
 <section class="blue-bg">
   <div class="content">
-    <span class="h2">ensemble</span>
+    <span class="ensemble">ensemble</span>
     <span class="bigP">P</span>
-    <span class="h2">rose</span>
+    <span class="ensembe">rose</span>
   </div>
 </section>
 
