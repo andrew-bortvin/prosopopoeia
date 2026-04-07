@@ -8,7 +8,7 @@ permalink: /editions/
 
 As an ensemble, we are particularly love the unexplored corners of early music repertoire. To make this music more accessible, we are publishing the modern performing editions we have created based on manuscript sources and historical sources. 
 
-<table class="schedule-table">
+<table class="editions-table">
   <thead>
     <tr>
       <th>Name</th>
