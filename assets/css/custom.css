@@ -37,7 +37,7 @@ h2 {
 
 .ensemble {
   font-family: 'Cormorant Garamond', serif;
-  font-size: 5rem;
+  font-size: clamp(2rem, 6vw, 6rem);
   font-weight: 300;
   color: #ffffff;
   text-align: center;
@@ -46,7 +46,7 @@ h2 {
 
 .bigP {
   font-family: 'Herr Von Muellerhoff', serif;
-  font-size: 20rem
+  font-size: clamp(6rem, 18vw, 18rem);
   font-weight: 400;
   color: #ffffff;
   text-align: center;
@@ -280,7 +280,7 @@ body::after {
 
 .blue-bg .content span {
   display: inline-block;
-  font-size: clamp(1rem, 5vw, 4rem); /* responsive scaling */
+  /*font-size: clamp(1rem, 5vw, 4rem);*/ /* responsive scaling */
 }
 
 /*text color in blue bg section*/
