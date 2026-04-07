@@ -29,18 +29,18 @@ title: prosopopoeia ensemble
   </div>
 </div>
 
-<!--<div class="text-image-row">
+<div class="text-image-row">
   <div class="image-column">
     <img src="{{ site.baseurl }}/assets/img/jonah.jpeg" alt="our group!" />
   </div>
   <div class="text-column">
     <p>
-The rest of it went in a doublet of fine cloth and velvet breeches and shoes to match for holidays, while on week-days he made a brave figure in his best homespun. He had in his house a housekeeper past forty, a niece under twenty, and a lad for the field and market-place, who used to saddle the hack as well as handle the bill-hook. The age of this gentleman of ours was bordering on fifty; he was of a hardy habit, spare, gaunt-featured, a very early riser and a great sportsman. 
+      Committed to storytelling, Ensemble Prose performs music that emphasizes the power of language and rhetoric. Our concerts tell dramatic stories, sharing the intimacy, connection, and freedom of historically-informed chamber music. We endeavor to increase the accessibility of this music through the performance, recording, and creation of modern performing editions of underperformed repertoire. 
     </p>
   </div>
 </div>
  <p>
- -->
+
 
 <br>
 <p style="text-align: center; margin: 0 10rem;">
