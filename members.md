@@ -15,7 +15,7 @@ after_banner: true
   </div>
   <div class="icon-item">
     <button class="icon-toggle" data-text="jonah">
-      <img src="{{ site.baseurl }}/assets/img/logo.png" alt="Icon 2" />
+      <img src="{{ site.baseurl }}/assets/img/headshots/jonah.png" alt="Icon 2" />
     </button>
   </div>
   <div class="icon-item">
@@ -40,7 +40,15 @@ after_banner: true
 </div>
 <div id="jonah" class="icon-text" style="display:none;">
   <p>
-  Jonah is so good at the flute and the recorder 
+    Passionate about creating music that transcends the need for cultural context, Jonah Ahlers performs chamber, orchestral, and solo repertoire on a variety of flutes and keyboards on the East Coast. Pursuing this goal with Peabody colleagues, he cofounded Ensemble Prose, a chamber ensemble specializing in the discovery and performance of unknown music of all kinds. His fascination with the intersections between language and music leads him to pursue research on translation, poetry, and their relation to historical practice, feeding his enthusiasm for theater across musical idioms.
+  </p>
+
+  <p>
+    In addition to his flute and recorder playing with groups like Basso Celestia, NEXT Ensemble, Baltimore Baroque Band, Peabody Renaissance Ensemble, and Berwick Academy Orchestra, he also performs as a harpsichordist and organist in recitals and services. Before discovering early music and igniting his curiosity, Jonah studied modern flute with Michelle Barraclough, winning the woodwind category of the WSA Lancaster Rising Stars Concerto Competition. On the modern flute, he has performed the Reinecke Concerto, Chaminade Concertino, and Bizet-Borne Fantasie in concert throughout Pennsylvania. He later began his studies in historical flutes with eminent scholar and musician, Dr. Steven Zohn, and continues his musical journey at the Peabody Conservatory, where he is pursuing a Bachelor of Music in Baroque Flute Performance under the vibrant performer and director, Gwyn Roberts.
+  </p>
+
+  <p>
+    You can follow Jonah on Instagram and Facebook at @jonahahlersflutes and on Ensemble Prose’s website; you can find him in upcoming performances as flutist with Basso Celestia’s Coffee Confections concert series, playing flutes, recorders, and harpsichord with Peabody ensembles, and as a soloist in El Paso Baroque's program, La Flauta Barroca.
 </p>
 </div>
 <div id="andrew" class="icon-text" style="display:none;">
