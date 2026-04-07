@@ -773,13 +773,16 @@ div.icon-text p {
     margin-top: 1rem;
     font-size: 0.95rem;
     line-height: 1.4;
-    color: #ffffff;
   }
 
   .icon-dropdown.open {
     opacity: 1;
     max-height: 1000px;
   }
+
+  .site-header.scrolled .nav-menu  a {
+  color: #000000 !important;
+}
 }
 
 /* --- Narrow screens (phones) --- */
