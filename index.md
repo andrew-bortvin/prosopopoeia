@@ -25,11 +25,11 @@ title: prosopopoeia ensemble
     </p>
   </div>
   <div class="image-column">
-    <img src="{{ site.baseurl }}/assets/img/gamba_keys.jpeg" alt="gamba and keys!" />
+    <img src="{{ site.baseurl }}/assets/img/julie_singing.jpeg" alt="gamba and keys!" />
   </div>
 </div>
 
-<div class="text-image-row">
+<!--<div class="text-image-row">
   <div class="image-column">
     <img src="{{ site.baseurl }}/assets/img/jonah.jpeg" alt="our group!" />
   </div>
@@ -40,6 +40,7 @@ The rest of it went in a doublet of fine cloth and velvet breeches and shoes to 
   </div>
 </div>
  <p>
+ -->
 
 <br>
 <p style="text-align: center; margin: 0 10rem;">
