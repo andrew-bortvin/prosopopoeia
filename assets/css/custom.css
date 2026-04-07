@@ -577,35 +577,35 @@ div.icon-text p {
 
 .Name-First {
   font-family: 'Cormorant Garamond', serif;
-  font-size: 3rem;
+  font-size: 12rem;
   font-weight: 400;
   color: #000000;
 }
 
 .Dates {
   font-family: 'Cormorant Garamond', serif;
-  font-size: 2rem;
+  font-size: 1rem;
   font-weight: 400;
   color: #000000;
 }
 
 .Piece {
   font-family: 'Cormorant Garamond', serif;
-  font-size: 2rem;
+  font-size: 1rem;
   font-weight: 400;
   color: #000000;
 }
 
 .Inst {
   font-family: 'Cormorant Garamond', serif;
-  font-size: 2rem;
+  font-size: 1rem;
   font-weight: 400;
   color: #000000;
 }
 
 .Link {
   font-family: 'Cormorant Garamond', serif;
-  font-size: 2rem;
+  font-size: 1rem;
   font-weight: 400;
   color: #000000;
 }
