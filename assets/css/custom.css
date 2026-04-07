@@ -624,7 +624,7 @@ div.icon-text p {
   padding-bottom: 56.25%; /* 16:9 */
   height: 0;
   overflow: hidden;
-  max-width: 80%;
+  max-width: 80%vh;
   margin: 2rem auto;
 }
 
