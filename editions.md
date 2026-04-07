@@ -62,6 +62,26 @@ As an ensemble, we are particularly love the unexplored corners of early music r
     <tr>
       <td>
         <div>
+          <span class="Name-Last">Johnson</span>
+          <span class="Name-First">Robert</span>
+        </div>
+     </td>
+      <td>
+        <span class="Dates">1582-1633</span><br>
+      </td>
+      <td>
+        <span class="Piece">Full Fathom Five</span>
+      </td>
+      <td>
+        <span class="Inst">Voice, B.C.</span>
+      </td>
+      <td>
+        <span class="Link">Google Drive</span>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>
           <span class="Name-Last">Morin</span>
           <span class="Name-First">Jean Baptiste</span>
         </div>
