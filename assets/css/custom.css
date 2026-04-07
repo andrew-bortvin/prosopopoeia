@@ -35,6 +35,12 @@ h2 {
   text-align: center;
 }
 
+.bigP {
+  font-family: 'Herr Von Muellerhoff', serif;
+  font-size: 5rem;
+  font-weight: 400;
+  color: #ffffff;
+}
 
 /* mobile h2 */
 @media (max-width: 768px) {
