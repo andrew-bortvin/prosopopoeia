@@ -45,9 +45,10 @@ h2 {
 
 .bigP {
   font-family: 'Herr Von Muellerhoff', serif;
-  font-size: 8rem;
+  font-size: 7rem;
   font-weight: 400;
   color: #ffffff;
+  text-align: center;
 }
 
 /* mobile h2 */
