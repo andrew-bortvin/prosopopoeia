@@ -583,7 +583,22 @@ div.icon-text p {
   color: #000000;
 }
 
+.vid-bold {
+  font-family: 'Cormorant Garamond', serif;
+  font-size: 3rem;
+  font-weight: 700;
+  color: #000000;
+  margin-left: 2rem;
+}
+
 .Name-First {
+  font-family: 'Cormorant Garamond', serif;
+  font-size:2rem;
+  font-weight: 400;
+  color: #000000;
+}
+
+.vid-normal {
   font-family: 'Cormorant Garamond', serif;
   font-size:2rem;
   font-weight: 400;
