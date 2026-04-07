@@ -42,9 +42,9 @@ title: Ensemble Prose
  <p>
 
 
-<br>
+<!--<br>
 <p style="text-align: center; margin: 0 10rem;">
  They will have it his surname was Quixada or Quesada (for here there is some difference of opinion among the authors who write on the subject), although from reasonable conjectures it seems plain that he was called Quexana.
 </p>
-
+-->
 
