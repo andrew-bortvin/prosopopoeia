@@ -46,7 +46,7 @@ h2 {
 
 .bigP {
   font-family: 'Herr Von Muellerhoff', serif;
-  font-size: clamp(2rem, 14rem, 14rem);
+  font-size: clamp(2rem, 20rem, 20rem);
   font-weight: 400;
   color: #ffffff;
   text-align: center;
