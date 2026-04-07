@@ -22,8 +22,8 @@ As an ensemble, we are particularly love the unexplored corners of early music r
     <tr>
       <td>
         <div>
-          <span class="Name-Last">Morin</span><br>
-          <span class="Name-First">Jean Baptiste</span><br>
+          <span class="Name-Last">Morin</span>
+          <span class="Name-First">Jean Baptiste</span>
         </div>
      </td>
       <td>
