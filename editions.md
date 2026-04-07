@@ -24,8 +24,8 @@ As an ensemble, we are particularly love the unexplored corners of early music r
       <td>
         <div>
           <span class="Name-First">d'</span>
-          <span class="Name-Last">Ambruys</span>
-          <span class="Name-First">Honoré</span>
+          <span class="Name-Last">A</span>
+          <span class="Name-First">mbruys Honoré</span>
         </div>
       </td>
       <td><span class="Dates">late 1600s</span></td>
@@ -36,8 +36,8 @@ As an ensemble, we are particularly love the unexplored corners of early music r
     <tr>
       <td>
         <div>
-          <span class="Name-Last">Charpentier</span>
-          <span class="Name-First">Marc-Antoine</span>
+          <span class="Name-Last">C</span>
+          <span class="Name-First">harpentier Marc-Antoine</span>
         </div>
       </td>
       <td><span class="Dates">1643 - 1704</span></td>
@@ -60,8 +60,8 @@ As an ensemble, we are particularly love the unexplored corners of early music r
     <tr>
       <td>
         <div>
-          <span class="Name-Last">Morin</span>
-          <span class="Name-First">Jean Baptiste</span>
+          <span class="Name-Last">M</span>
+          <span class="Name-First">orin Jean Baptiste</span>
         </div>
       </td>
       <td><span class="Dates">1677 – 1745</span></td>
