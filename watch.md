@@ -7,7 +7,8 @@ after_banner: true
 
 <div style="height: 7rem;"></div>
 
-<span class="Name-Last">Morin: Enone</span>
+<span class="Name-Last">J. B. Morin</span>
+<span class="Name-First">:  Enone</span>
 
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/nVZHkx9fklg?si=YhbuuwmXTsLEY-PT" 
