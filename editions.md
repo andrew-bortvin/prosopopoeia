@@ -19,6 +19,27 @@ As an ensemble, we are particularly love the unexplored corners of early music r
     </tr>
   </thead>
   <tbody>
+  	<tr>
+      <td>
+        <div>
+        <span class="Name-First">d'</span>
+          <span class="Name-Last">Ambruys</span>
+          <span class="Name-First">Honoré</span>
+        </div>
+     </td>
+      <td>
+        <span class="Dates">late 1600s</span><br>
+      </td>
+      <td>
+        <span class="Piece">Le doux silence de nos bois</span>
+      </td>
+      <td>
+        <span class="Inst">Voice, B.C.</span>
+      </td>
+      <td>
+        <span class="Link">Google Drive</span>
+      </td>
+    </tr>
     <tr>
       <td>
         <div>
