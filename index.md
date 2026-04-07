@@ -12,7 +12,7 @@ title: prosopopoeia ensemble
 
 <section class="blue-bg">
   <div class="content">
-    <span class="ensemble">ensemble   </span>
+    <span class="ensemble">ensemble    </span>
     <span class="bigP">P</span>
     <span class="ensemble">rose</span>
   </div>
@@ -21,7 +21,7 @@ title: prosopopoeia ensemble
 <div class="text-image-row">
   <div class="text-column">
     <p>
-      In a village of La Mancha, the name of which I have no desire to call to mind, there lived not long since one of those gentlemen that keep a lance in the lance-rack, an old buckler, a lean hack, and a greyhound for coursing. An olla of rather more beef than mutton, a salad on most nights, scraps on Saturdays, lentils on Fridays, and a pigeon or so extra on Sundays, made away with three-quarters of his income.
+      Ensemble Prose is an early music ensemble founded in Baltimore, bringing historically-informed performance on period instruments to the East Coast and beyond. We are dedicated to the revival of forgotten and underperformed music from the Baroque and before, and we are invested in reanimating ancient music to connect audiences with the music of their histories.
     </p>
   </div>
   <div class="image-column">
