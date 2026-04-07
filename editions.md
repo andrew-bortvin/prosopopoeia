@@ -57,7 +57,7 @@ permalink: /editions/
       <td><span class="Dates">1582-1633</span></td>
       <td><span class="Piece">Full Fathom Five</span></td>
       <td><span class="Inst">Voice, B.C.</span></td>
-      <td><span class="Link">Google Drive</span></td>
+      <td><span class="Link"><a href="https://drive.google.com/file/d/175HylN5BKg0-RxJIWhC7ec2kc7oY_lQ7/view?usp=sharing">Google Drive</a></span></td>
     </tr>
     <tr>
       <td>
