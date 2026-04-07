@@ -261,6 +261,10 @@ body::after {
   background-color: #6394FF;
 }
 
+.content{
+  margin-left: 30%;
+}
+
 .blue-bg {
   /*min-height: 50vh; */   
   height: 100vh;
