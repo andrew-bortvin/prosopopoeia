@@ -31,7 +31,7 @@ title: Ensemble Prose
 
 <div class="text-image-row">
   <div class="image-column">
-    <img src="{{ site.baseurl }}/assets/img/jonah.jpeg" alt="our group!" />
+    <img src="{{ site.baseurl }}/assets/img/andrew.jpg" alt="me" />
   </div>
   <div class="text-column">
     <p>
