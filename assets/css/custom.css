@@ -33,12 +33,13 @@ h2 {
   font-weight: 600;
   color: #ffffff;
   text-align: center;
+  font-style:  italic;
 }
 
 .ensemble {
   font-family: 'Cormorant Garamond', serif;
   font-size: 5rem;
-  font-weight: 600;
+  font-weight: 300;
   color: #ffffff;
   text-align: center;
 }
