@@ -10,6 +10,17 @@ after_banner: true
 
 ### Upcoming
 
+<div style="text-align: center; max-width: 800px; margin: 2rem auto;">
+  <p>
+    <strong>The Birth of the Theater</strong> <br>
+    Renaissance and Baroque reflections on Shakespeare <br>
+    Mount Vernon Place United Methodist Church<br>
+    10 E Mt Vernon Place, Baltimore, Maryland 21202<br>
+    2pm Friday, May 8, 2026<br>
+    Free admission <br>
+  </p>
+</div>
+
 ### Past Performances
 
 <div style="text-align: center; max-width: 800px; margin: 2rem auto;">
