@@ -178,7 +178,8 @@ html, body {
 
 /* Header container - when scrolled*/
 .site-header.scrolled {
-  background-color: #6394FF;
+  background-color: #728da1;
+  /*background-color: #6394FF;/*
 }
 
 /*Header font - when scrolled*/
@@ -258,7 +259,8 @@ body::after {
 /*Colored bg section*/
 /**/
 .blue-bg {
-  background-color: #6394FF;
+  background-color:  #728da1;
+  /*background-color: #6394FF;/*
 }
 
 .content{
