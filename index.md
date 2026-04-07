@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Ensemble Prose
+permalink: /home/
 ---
 
 <div class="banner-container">
