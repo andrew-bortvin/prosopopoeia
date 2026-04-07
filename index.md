@@ -1,6 +1,6 @@
 ---
 layout: page
-title: prosopopoeia ensemble
+title: Ensemble Prose
 ---
 
 <div class="banner-container">
