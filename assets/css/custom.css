@@ -582,6 +582,34 @@ div.icon-text p {
   color: #000000;
 }
 
+.Dates {
+  font-family: 'Cormorant Garamond', sans-serif;
+  font-size: 2rem;
+  font-weight: 300;
+  color: #000000;
+}
+
+.Piece {
+  font-family: 'Cormorant Garamond', sans-serif;
+  font-size: 2rem;
+  font-weight: 300;
+  color: #000000;
+}
+
+.Inst {
+  font-family: 'Cormorant Garamond', sans-serif;
+  font-size: 2rem;
+  font-weight: 300;
+  color: #000000;
+}
+
+.Link {
+  font-family: 'Cormorant Garamond', sans-serif;
+  font-size: 2rem;
+  font-weight: 300;
+  color: #000000;
+}
+
 /* --- MOBILE STYLES --- */
 /* --- MOBILE NAVIGATION & ICON GRID --- */
 @media (max-width: 768px) {
