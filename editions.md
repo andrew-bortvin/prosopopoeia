@@ -1,6 +1,6 @@
 ---
 layout: page
-title: editions
+title: Editions
 permalink: /editions/
 ---
 
