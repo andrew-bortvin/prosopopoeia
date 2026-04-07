@@ -30,8 +30,8 @@ after_banner: true
 
 <div style="height: 2rem;"></div>
 
-<span class="Name-Last">Julie Knott</span>
-<span class="Name-First">: Master's Recital</span>
+<span class="vid-bold">Julie Knott</span>
+<span class="vid-normal">: Master's Recital</span>
 
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/ZdAA1xLOV8M?si=_x0GFHNAe4jX3aCm"
@@ -41,8 +41,8 @@ after_banner: true
 </div>
 
 <div style="height: 2rem;"></div>
-<span class="Name-Last">G. Caccini</span>
-<span class="Name-First">: Sfogava con le stelle</span>
+<span class="vid-bold">G. Caccini</span>
+<span class="vid-normal">: Sfogava con le stelle</span>
 
 <div class="video-container">
   <iframe src="https://www.youtube.com/embed/U6Y-7AhWGb4?si=4WburzFknPL4h0K0" 
