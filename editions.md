@@ -48,8 +48,8 @@ As an ensemble, we are particularly love the unexplored corners of early music r
     <tr>
       <td>
         <div>
-          <span class="Name-Last">Johnson</span>
-          <span class="Name-First">Robert</span>
+          <span class="Name-Last">J</span>
+          <span class="Name-First">ohnson Robert</span>
         </div>
       </td>
       <td><span class="Dates">1582-1633</span></td>
