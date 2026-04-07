@@ -700,7 +700,7 @@ div.icon-text p {
     display: flex;
     flex-direction: column;       /* vertical stack */
     gap: 0.5rem;
-    width: 200%;   /* move left */
+    width: 100%;   /* move left */
     margin-left: 0; /* shift back to align left */
     box-sizing: border-box;
   }
