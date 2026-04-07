@@ -1,6 +1,7 @@
 ---
 layout: page
 title: editions
+permalink: /editions/
 ---
 
 <div style="height: 7rem;"></div>
