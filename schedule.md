@@ -40,6 +40,7 @@ after_banner: true
     The Ivy Bookshop at Mount Vernon <br>
     10 E Mt Vernon Place, Baltimore, Maryland 21202<br>
     December 11 and December 14, 2025<br>
+    Program also presented at the Roland Park Place senior living center on February 8, 2026. <br>
     Free admission <br>
   </p>
 </div>
