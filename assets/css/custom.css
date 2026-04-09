@@ -328,7 +328,8 @@ body::after {
 .site-title img {
   height: 70px;
   width: auto;
-  display: block;
+  /*display: block;*/
+  display:  none !important;
   transition: height 0.3s ease;
   align-items: center;
 }
