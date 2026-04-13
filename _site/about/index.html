@@ -5,19 +5,19 @@
 
 
     <meta charset="UTF-8" />
-    <title>{{ page.title }}</title>
+    <title>About</title>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}" />
-    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}" />
+    <link rel="stylesheet" href="/assets/main.css" />
+    <link rel="stylesheet" href="/assets/css/custom.css" />
     <!--fonts-->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Antonio:wght@100..700&family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&family=Herr+Von+Muellerhoff&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
 
     <!--favicon icon-->
-    <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/img/logo_2.png' | relative_url }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/logo_2.png">
   </head>
 
   <script>
@@ -122,13 +122,87 @@ document.addEventListener("DOMContentLoaded", function () {
 
   <!--Header and footer-->
 <body class="
-  {% if page.url == '/' or page.url == '/index.html' %}home{% else %}not-home{% endif %}
-  {% if page.after_banner %}after-banner{% endif %}
+  not-home
+  after-banner
 ">
-    {% include header.html %}
+    <header class="site-header" role="banner">
+  <div class="wrapper">
+    <a class="site-title" href="/">
+      <img src="/assets/img/logo_2.png" alt="Site Logo" class="site-logo">
+    </a>
+    <nav class="site-nav">
+      <div class="site-nav">
+  <button class="nav-toggle" aria-label="Toggle navigation">&#9776;</button>
+  <nav class="nav-menu">
+    <ul>
+      <li><a href="/">Home</a></li>
+      <!--<li><a href="/about/">About Us</a></li>-->
+      <li><a href="/members/">Members</a></li>
+      <li><a href="/schedule/">Schedule</a></li>
+      <!--<li><a href="/programs/">Programs</a></li>-->
+      <li><a href="/editions/">Editions</a></li>
+      <li><a href="/watch/">Watch & Listen</a></li>
+    </ul>
+  </nav>
+</div>
+
+    </nav>
+  </div>
+</header>
     <main class="page-content">
-      {{ content }}
+      <div style="height: 8rem;"></div>
+
+<h4 id="our-vision">Our Vision:</h4>
+
+<div style="text-align: center; max-width: 800px; margin: 2rem auto;">
+  <p>It is to be observed, that on coming to this passage, the author of this veracious history breaks out into exclamations. “O doughty Don Quixote! high-mettled past extolling! Mirror, wherein all the heroes of the world may see themselves! Second modern Don Manuel de Leon, once the glory and honour of Spanish knighthood!"</p>
+</div>
+
+<h4 id="our-mission">Our Mission:</h4>
+
+<div style="text-align: center; max-width: 800px; margin: 2rem auto;">
+  <p>As soon as she was gone Sancho said to the cattle dealer, whose tears were already starting and whose eyes and heart were following his purse, “Good fellow, go after that woman and take the purse from her, by force even, and come back with it here;” and he did not say it to one who was a fool or deaf, for the man was off like a flash of lightning, and ran to do as he was bid.</p>
+</div>
+
     </main>
-     {% include footer.html %}
+     <footer class="site-footer" style="padding: 1em 2em; font-family: 'Helvetica Neue', sans-serif; font-size: 0.9em; color: #666;">
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+
+    <!--Social links-->
+    <div style="display: flex; flex-direction: column; gap: 0px;">
+      <!--<a href="INSTA LINK" target="_blank" rel="noopener noreferrer" 
+       style="text-decoration: none;">
+      <img 
+        src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" 
+        alt="Instagram" 
+        style="width: 24px; height: 24px; vertical-align: middle;"
+      >
+    </a> <br>
+     <a href="FACEBOOK LINK" target="_blank" rel="noopener noreferrer" 
+       style="text-decoration: none;">
+      <img 
+        src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" 
+        alt="Facebook" 
+        style="width: 24px; height: 24px; vertical-align: middle;"
+      >
+      </a> <br>
+      <a href="CHANNEL LINK" target="_blank" rel="noopener noreferrer" 
+       style="text-decoration: none;">
+      <img 
+        src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" 
+        alt="Youtube" 
+        style="width: 24px; height: 24px; vertical-align: middle;"
+      >
+    </a>
+    -->
+    </div>
+    
+    <!--Website attirbution-->
+    <div>
+      Website by Andrew Bortvin, 2026 <br>
+      </a>
+    </div>
+  </div>
+</footer>
   </body>
 </html>
