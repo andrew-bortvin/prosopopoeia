@@ -780,6 +780,11 @@ body::after {
   padding: 0; 
 }
 
+.icon-toggle {
+  width: 130px;
+  height: 200px;
+}
+
 }
 
 /* --- Narrow screens (phones) --- */
