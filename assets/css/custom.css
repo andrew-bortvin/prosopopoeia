@@ -765,6 +765,17 @@ body::after {
     padding: 0 1rem;  
     order: 1; /* image appears first for mobile users*/
   }
+
+  /*editions table mobile fonts*/
+  .Name-Last {
+  font-size: 2rem;
+  }
+
+
+.Name-First {
+  font-size:1.5rem;
+}
+
 }
 
 /* --- Narrow screens (phones) --- */
