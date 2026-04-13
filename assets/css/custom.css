@@ -769,6 +769,10 @@ body::after {
   .site-header.scrolled .nav-menu  a {
   color: #000000 !important;
 }
+
+.icon-toggle:hover  {
+  transform: scale(1.1);
+}
 }
 
 /* --- Narrow screens (phones) --- */
