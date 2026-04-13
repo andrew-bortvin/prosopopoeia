@@ -642,21 +642,27 @@ div.icon-text p {
 }
 
 /*VIDEO*/
-.video-container {
-  position: relative;
-  width: 80%;
-  max-width: 800px;
-  padding-bottom: 56.25%;
-  height: 0;
+.video-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
+  gap: 1.5rem;
+  max-width: 1000px;
   margin: 2rem auto;
 }
 
-.video-container iframe {
+/* Maintain 16:9 aspect ratio */
+.video-item {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+}
+
+.video-item iframe {
   position: absolute;
-  width: 100%;
-  height: 100%;
   top: 0;
   left: 0;
+  width: 100%;
+  height: 100%;
   border: 0;
 }
 
