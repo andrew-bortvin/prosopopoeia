@@ -10,22 +10,22 @@ after_banner: true
 <div class="icon-grid">
   <div class="icon-item">
     <button class="icon-toggle" data-text="julie">
-      <img src="{{ site.baseurl }}/assets/img/headshots/julie.jpg" alt="Icon 1" />
+      <img src="{{ site.baseurl }}/assets/img/headshots/julie.jpeg" alt="Icon 1" />
     </button>
   </div>
   <div class="icon-item">
     <button class="icon-toggle" data-text="jonah">
-      <img src="{{ site.baseurl }}/assets/img/headshots/jonah.png" alt="Icon 2" />
+      <img src="{{ site.baseurl }}/assets/img/headshots/jonah.jpeg" alt="Icon 2" />
     </button>
   </div>
   <div class="icon-item">
     <button class="icon-toggle" data-text="andrew">
-      <img src="{{ site.baseurl }}/assets/img/headshots/andrew.jpg" alt="Icon 3" />
+      <img src="{{ site.baseurl }}/assets/img/headshots/andrew.jpeg" alt="Icon 3" />
     </button>
   </div>
   <div class="icon-item">
     <button class="icon-toggle" data-text="riley">
-      <img src="{{ site.baseurl }}/assets/img/headshots/riley.jpg" alt="Icon 4" />
+      <img src="{{ site.baseurl }}/assets/img/headshots/riley.jpeg" alt="Icon 4" />
     </button>
   </div>
 </div>
@@ -53,7 +53,7 @@ after_banner: true
 </div>
 <div id="andrew" class="icon-text" style="display:none;">
   <p>
-  	Andrew Bortvin is a versatile keyboardist based in Baltimore and New York City. His primary teachers include Peter Sykes and Adam Pearl. He has performed in festivals and workshops such as the San Francisco Early Music Society’s Baroque Workshop, St. Andrew’s Baroque Performance Course, the Oberlin Baroque Performance Institute, and Amherst Early Music Academy. Andrew performs extensively throughout the east coast with the Baltimore Baroque Band, Peabody Renaissance Ensemble, Ensemble Prose, and in opera and chamber music ensembles. Outside of early music, Andrew has earned his PhD at Johns Hopkins University in computational biology. 
+  	Andrew Bortvin is a versatile keyboardist based in Baltimore and New York City. His primary teachers include Peter Sykes and Adam Pearl. He has performed in festivals and workshops such as the San Francisco Early Music Society’s Baroque Workshop, St. Andrew’s Baroque Performance Course, the Oberlin Baroque Performance Institute, and Amherst Early Music Academy. Andrew performs extensively throughout the east coast with the Baltimore Baroque Band, Peabody Renaissance Ensemble, Ensemble Prose, Reverie Baroque, and in opera and chamber music ensembles. Outside of early music, Andrew has earned his PhD at Johns Hopkins University in computational biology. 
   </p>
 </div>
 <div id="riley" class="icon-text" style="display:none;">
